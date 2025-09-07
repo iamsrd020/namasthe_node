@@ -3,7 +3,7 @@
 
 // console.log("going to tirupathi");
 
-export var x = "DBOSS";
+var x = "DBOSS";
 
 // function calculateSum(a, b) {
 //   const sum = a + b;
@@ -16,7 +16,12 @@ export var x = "DBOSS";
 //   calculateSum,
 // }; // -->> example for common js module system
 
-export function calculateSum(a, b) {
+function calculateSum(a, b) {
   const sum = a + b;
   console.log(sum);
 }
+
+module.exports = {
+  x,
+  calculateSum,
+};

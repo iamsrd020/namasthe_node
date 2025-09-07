@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Darshan SR",
+        "age": 24,
+        "gender": "male",
+        "city": "Bangalore",
+        "isMarried": false,
+        "hobbies": ["coding", "reading", "traveling"],
+        "education": {
+            "degree": "Bachelor of Technology",
+            "branch": "ECE",
+            "college": "SJC Institute of Technology",
+            "yearOfPassing": 2024
+        }
+    },
+    {
+        "name": "Harshitha CM",
+        "age": 23,
+        "gender": "female",
+        "city": "Bangalore",
+        "isMarried": false,
+        "hobbies": ["Eating Head😱🤣", "Sleeping💤😴", "coding👩‍💻👩‍💻"],
+        "education": {
+            "degree": "Bachelor of Engineering",
+            "branch": "ECE",
+            "college": "SJC Institute of Technology",
+            "yearOfPassing": 2023
+        }
+    }
+]
